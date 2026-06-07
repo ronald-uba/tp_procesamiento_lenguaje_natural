@@ -5,9 +5,13 @@
 Siguiendo las consignas planteadas para el desafío se analizan 10 modelos alternativos al caso base visto en clase (Tabla 1).
 
 Se toman como métricas de evaluación [val_accuracy], [val_loss] y [valoracion_traduccion]. Para la valoración de la traducción se analiza cualitativamente la traducción de 6 nuevas frases agregadas al notebook, de acuerdo con estos criterios:
+
 a) totalmente incorrecta = 0 puntos
+
 b) parcialmente correcta = 1 punto
+
 c) correcta o muy cercana = 2 puntos
+
 
 De detallan a continuación los modelos evaluados y sus resultados:
 
