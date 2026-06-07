@@ -13,6 +13,7 @@ b) parcialmente correcta = 1 punto
 c) correcta o muy cercana = 2 puntos
 
 
+
 De detallan a continuación los modelos evaluados y sus resultados:
 
 **01_caso_base:** modelo traductor visto en clase, para tomarlo como baseline. Tomado como referencia, tiene val_accuracy de 0.7851y val_loss de 1.4461. La calidad de traducción es baja (3/12).
